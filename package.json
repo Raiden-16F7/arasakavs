@@ -3,6 +3,21 @@
   "displayName": "Arasaka VS Theme",
   "description": "Theme based on Monokai and cyberpunk's Arasaka Software Color Scheme",
   "publisher": "Raiden-16F7",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raiden-16f7/arasakavs"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "red",
+    "monokai",
+    "cyberpunk",
+    "black",
+    "high contrast",
+    "Arasaka VS Theme",
+    "Arasaka"
+  ],
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.81.0"
