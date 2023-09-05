@@ -25,6 +25,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "Group2.png",
   "contributes": {
     "themes": [
       {
