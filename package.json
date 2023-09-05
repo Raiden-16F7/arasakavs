@@ -1,0 +1,22 @@
+{
+  "name": "arasakavs",
+  "displayName": "Arasaka VS Theme",
+  "description": "Theme based on Monokai and cyberpunk's Arasaka Software Color Scheme",
+  "publisher": "Raiden-16F7",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Arasaka VS Theme",
+        "uiTheme": "hc-black",
+        "path": "./themes/Arasaka VS Theme-color-theme.json"
+      }
+    ]
+  }
+}
