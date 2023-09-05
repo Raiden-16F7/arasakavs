@@ -53,5 +53,5 @@ Enjoy coding in style with Arasaka VS Theme! 🌟
 
 ## Made By
 
-<img src="https://github.com/Raiden-16F7/TourXpress/blob/master/Social-handle-(Dark)-[remix].gif" alt="Social Handle" width="450" height="150" />
+<img src="https://github.com/Raiden-16F7/TourXpress/blob/master/Social-handle-(Dark)-[remix].gif" alt="Social Handle" width="450" height="150" onerror="this.src='SocialHandle.jpg'" />
 
